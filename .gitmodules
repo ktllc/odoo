@@ -1,0 +1,3 @@
+[submodule "ktllc/ktllcaddons"]
+	path = ktllc/ktllcaddons
+	url = git@github.com:ktllc/ktllcaddons.git
