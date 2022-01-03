@@ -1,3 +1,7 @@
 [submodule "ktllc/ktllcaddons"]
 	path = ktllc/ktllcaddons
 	url = git@github.com:ktllc/ktllcaddons.git
+[submodule "kt-contractors"]
+	path = kt-contractors
+	url = git@github.com:ktransferllc/kt-contractors.git
+	branch = 13.0
